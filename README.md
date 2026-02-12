@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaisar Khan</h1>
 <h3 align="center">Senior/Manager QA and Automation Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imqaisar5" alt="imqaisar5" /></a> </p>
-
 - 🔭 I’m currently working on **Web & Mobile Applications QA** – Manual & Automation testing**
 
 - 🌱 I’m currently learning **- Advanced automation testing frameworks** (Playwright, Cypress) - **REST API testing** best practices and CI/CD pipelines - Agile QA methodologies and quality metrics**
